@@ -1,0 +1,880 @@
+﻿College/Univ,State
+Notre Dame,IN
+USC,CA
+Ohio St.,OH
+Michigan,MI
+Penn St.,PA
+Alabama,AL
+LSU,LA
+Oklahoma,OK
+Georgia,GA
+Nebraska,NE
+Florida,FL
+Miami (FL),FL
+Tennessee,TN
+UCLA,CA
+Pittsburgh,PA
+Texas,TX
+Texas A&M,TX
+Wisconsin,WI
+Michigan St.,MI
+Florida St.,FL
+Washington,WA
+Iowa,IA
+Auburn,AL
+Illinois,IL
+Arizona St.,AZ
+Purdue,IN
+Stanford,CA
+Oregon,OR
+Minnesota,MN
+California,CA
+Arkansas,AR
+Clemson,SC
+Mississippi,MS
+Syracuse,NY
+North Carolina,NC
+Colorado,CO
+Baylor,TX
+Boston Col.,MA
+Maryland,MD
+Mississippi St.,MS
+Oklahoma St.,OK
+Missouri,MO
+Indiana,IN
+West Virginia,WV
+San Diego St.,CA
+South Carolina,SC
+TCU,TX
+Northwestern,IL
+Utah,UT
+Kentucky,KY
+Virginia,VA
+Georgia Tech,GA
+Kansas St.,KS
+Arizona,AZ
+North Carolina St.,NC
+Washington St.,WA
+Louisville,KY
+Oregon St.,OR
+Virginia Tech,VA
+Houston,TX
+BYU,UT
+Tulsa,OK
+Cincinnati,OH
+SMU,TX
+Kansas,KS
+Texas Tech,TX
+Fresno St.,CA
+Wake Forest,NC
+Rutgers,NJ
+Temple,PA
+Iowa St.,IA
+Utah St.,UT
+San Jose St.,CA
+Memphis,TN
+Duke,NC
+Colorado St.,CO
+Vanderbilt,TN
+Tulane,LA
+Southern Miss,MS
+Tennessee St.,TN
+Grambling St.,LA
+Boise St.,ID
+Hawaii,HI
+Central Florida,FL
+Jackson St.,MS
+East Carolina,NC
+Wyoming,WY
+Villanova,PA
+Nevada,NV
+Texas-El Paso,TX
+Marshall,WV
+Rice,TX
+Louisiana Tech,LA
+Toledo,OH
+Miami (OH),OH
+Idaho,ID
+North Texas,TX
+UNLV,NV
+Southern,LA
+Western Michigan,MI
+Florida A&M,FL
+Holy Cross,MA
+Fordham,NY
+Northern Illinois,IL
+Louisiana,LA
+New Mexico,NM
+Colgate,NY
+Appalachian St.,NC
+Marquette,WI
+Arkansas St.,AR
+Troy,AL
+South Carolina St.,SC
+Connecticut,CT
+Montana,MT
+Texas Southern,TX
+Pennsylvania,PA
+Pacific,CA
+Detroit Mercy,MI
+South Florida,FL
+Bowling Green,OH
+Georgetown (DC),DC
+Chattanooga,TN
+Western Kentucky,KY
+William & Mary,VA
+Kent St.,OH
+New Mexico St.,NM
+Alcorn St.,MS
+Central Michigan,MI
+St. Mary's (CA),CA
+West Texas A&M,TX
+North Dakota St.,ND
+Eastern Michigan,MI
+La-Monroe,LA
+Ohio,OH
+Brown,RI
+Duquesne,PA
+Northwestern St. (LA),LA
+Richmond,VA
+Ball St.,IN
+Texas A&M-Kingsville,TX
+Massachusetts,MA
+Buffalo,NY
+Illinois St.,IL
+Southern Illinois,IL
+Bucknell,PA
+Northern Arizona,AZ
+Texas St.,TX
+Morgan St.,MD
+Northern Iowa,IA
+S.F. Austin,TX
+Western Illinois,IL
+Akron,OH
+Dartmouth,NH
+Dayton,OH
+Eastern Kentucky,KY
+Bethune-Cookman,FL
+Columbia,NY
+Harvard,MA
+North Carolina A&T,NC
+Princeton,NJ
+Santa Clara,CA
+Washington & Jefferson,PA
+Weber St.,UT
+Cornell,NY
+Portland St.,OR
+Abilene Christian,TX
+Boston Univ.,MA
+South Dakota St.,SD
+Wichita St.,KS
+Army,NY
+Middle Tenn. St.,TN
+Navy,MD
+Hampton,VA
+Prairie View A&M,TX
+Long Beach St.,CA
+McNeese St.,LA
+Florida Atlantic,FL
+Yale,CT
+Ala-Birmingham,AL
+Delaware,DE
+East Mississippi CC,MS
+Sam Houston St.,TX
+Youngstown St.,OH
+Montana St.,MT
+Cal Poly-San Luis Obispo,CA
+Eastern Washington,WA
+Lehigh,PA
+Mississippi Gulf Coast CC,MS
+Northwest Mississippi CC,MS
+Butler (KS),KS
+Georgia Southern,GA
+San Francisco,CA
+Alabama St.,AL
+James Madison,VA
+North Carolina Central,NC
+North Dakota,ND
+NYU,NY
+Ark-Pine Bluff,AR
+Drake,IA
+Hardin-Simmons,TX
+Lafayette,PA
+Liberty,VA
+Sacramento St.,CA
+South Dakota,SD
+Eastern Illinois,IL
+Hinds CC,MS
+Idaho St.,ID
+Lamar,TX
+Maine,ME
+Texas A&M-Commerce,TX
+Chicago,IL
+Miss. Valley St.,MS
+North Alabama,AL
+Air Force,CO
+Furman,SC
+Valdosta St.,GA
+Central Oklahoma,OK
+Florida International,FL
+Howard,DC
+MD-Eastern Shore,MD
+Samford,AL
+SE Missouri St.,MO
+Cal State-Fullerton,CA
+George Washington,DC
+Grand Valley St.,MI
+Jacksonville St.,AL
+Murray St.,KY
+New Hampshire,NH
+Nicholls St.,LA
+Rhode Island,RI
+St. Thomas,MN
+Texas-Arlington,TX
+Xavier (OH),OH
+Coastal Carolina,SC
+Hofstra,NY
+The Citadel,SC
+UC Davis,CA
+Carnegie Mellon,PA
+Central State (OH),OH
+Gonzaga,WA
+Norfolk St.,VA
+Alabama A&M,AL
+Carson-Newman,TN
+Central Arkansas,AR
+Old Dominion,VA
+West Virginia Wesleyan,WV
+Carlisle Indian,PA
+Catholic,DC
+Centre,KY
+Haskell Indian,KS
+Northern Colorado,CO
+Southeastern Louisiana,LA
+St. Louis,MO
+California (PA),PA
+Delaware St.,DE
+Indiana (PA),PA
+Indiana St.,IN
+Nebraska-Omaha,NE
+Northeastern,MA
+Western Carolina,NC
+Canisius,NY
+Case Western Reserve,OH
+Catawba,NC
+Cerritos (CA),CA
+Emporia St.,KS
+Missouri State,MO
+Pittsburg St.,KS
+Virginia Union,VA
+DePaul,IL
+Ferris St.,MI
+Fort Valley St.,GA
+Loyola Marymount,CA
+NW Missouri St.,MO
+Saginaw Valley St.,MI
+UT Martin,TN
+Texas-San Antonio,TX
+VMI,VA
+Winston-Salem St.,NC
+East Tennessee St.,TN
+Elon,NC
+Los Angeles St.,CA
+Colorado Mesa,CO
+Morris Brown,GA
+Ohio Wesleyan,OH
+San Francisco St.,CA
+Tampa,FL
+Towson,MD
+Trinity (TX),TX
+Tuskegee,AL
+Washington (MO),MO
+Cameron,OK
+Carroll (WI),WI
+Ferrum,VA
+Howard Payne,TX
+Kentucky St.,KY
+Sacramento CC,CA
+San Diego,CA
+Tarleton St.,TX
+Tennessee Tech,TN
+Wayne State (MI),MI
+West Alabama,AL
+West Georgia,GA
+Bishop,TX
+Bradley,IL
+Centenary,LA
+Denver,CO
+Georgia Military,GA
+Heidelberg,OH
+Independence (KS),KS
+Langston,OK
+Lincoln (MO),MO
+Millikin,IL
+South Alabama,AL
+Southern Connecticut St.,CT
+Southern Utah,UT
+St. Bonaventure,NY
+Washburn,KS
+West Chester,PA
+Wisconsin–LaCrosse,WI
+Angelo State (TX),TX
+Baldwin Wallace,OH
+Cal Poly-Pomona,CA
+Cal State-Northridge,CA
+Charlotte,NC
+Denison,OH
+DePauw,IN
+Findlay,OH
+Georgia St.,GA
+Grove City,PA
+Hamline,MN
+John Carroll,OH
+Johnson C. Smith,NC
+Loyola (IL),IL
+Muhlenberg,PA
+New Mex. Highlands,NM
+Northern Michigan,MI
+Presbyterian,SC
+Ripon,WI
+Snow College (UT),UT
+St. Cloud St.,MN
+SW Oklahoma St.,OK
+Washington & Lee,VA
+Waynesburg,PA
+Ashland,OH
+Beloit,WI
+Blinn College (TX),TX
+Butler,IN
+Copiah-Lincoln CC,MS
+Creighton,NE
+East Central (OK),OK
+Henderson St.,AR
+Minnesota St.,MN
+Missouri Western St.,MO
+NE Oklahoma A&M,OK
+NE State (OK),OK
+Oklahoma City,OK
+Phillips,OK
+St. Ambrose,IA
+Stony Brook,NY
+Wabash,IN
+Western Maryland,MD
+Albany State (GA),GA
+Bethany (WV),WV
+Central Missouri St.,MO
+Charleston (WV),WV
+Colorado State-Pueblo,CO
+Compton CC (CA),CA
+C.W. Post,NY
+Delta St.,MS
+Eastern Arizona,AZ
+Garden City (KS),KS
+Geneva,PA
+Grossmont College (CA),CA
+Gustavus Adolphus,MN
+Humboldt St.,CA
+Hutchinson (KS),KS
+Marietta,OH
+Missouri Southern,MO
+Monmouth,NJ
+Southwestern (TX),TX
+St. Mary's (MN),MN
+Truman St.,MO
+Tufts,MA
+Valparaiso,IN
+Virginia St.,VA
+Wayne State (NE),NE
+Wisconsin–Whitewater,WI
+Wittenberg,OH
+American Int.,MA
+Arkansas Tech,AR
+Austin,TX
+Austin Peay St.,TN
+California Lutheran,CA
+Chowan,NC
+Davis & Elkins,WV
+Elizabeth City St.,NC
+Franklin & Marshall,PA
+Hillsdale,MI
+Illinois Wesleyan,IL
+Kilgore College,TX
+Kutztown (PA),PA
+Lackawanna,PA
+Lawrence,WI
+Lenoir-Rhyne,NC
+Mississippi Col.,MS
+Morehead St.,KY
+Morningside,IA
+Mount Union,OH
+Niagara,NY
+NW Oklahoma St.,OK
+Ouachita Baptist,AR
+Salem,WV
+Shepherd,WV
+St. Francis (PA),PA
+St. John's (NY),NY
+Albany (NY),NY
+Augustana (SD),SD
+UC Santa Barbara,CA
+College of the Canyons (CA),CA
+Davidson,NC
+Eastern New Mexico,NM
+Iowa Central,IA
+Iowa Western,IA
+Laney,CA
+Midwestern St.,TX
+Montclair St.,NJ
+Occidental,CA
+Riverside CC,CA
+Savannah St.,GA
+Schreiner College,TX
+Southern Arkansas,AR
+U.S. International,CA
+Wagner,NY
+Western Ontario,ON
+Widener,PA
+Azusa Pacific,CA
+Bloomsburg,PA
+Bowie St.,MD
+UC Riverside,CA
+Cal State-Chico,CA
+Chadron St.,NE
+Clark (GA),GA
+Concordia-Moorhead (MN),MN
+Dubuque,IA
+Fort Hays St.,KS
+Lane,TN
+Lebanon Valley,PA
+Linfield,OR
+Loras,IA
+Michigan Tech,MI
+Minnesota-Duluth,MN
+Nebraska-Kearney,NE
+Newberry,SC
+Otterbein,OH
+Regina,SK
+Scranton,PA
+Slippery Rock,PA
+Springfield,MA
+St. Vincent,PA
+Trinity (CT),CT
+Trinity Valley CC (TX),TX
+Vermont,VT
+Williams,MA
+Wisconsin–Milwaukee,WI
+Wisconsin–Platteville,WI
+Wisconsin–Superior,WI
+Wooster,OH
+Adams St.,CO
+Albright,PA
+Amherst,MA
+Arizona Western,AZ
+Arkansas–Monticello,AR
+Benedictine,KS
+British Columbia,BC
+Calgary,AB
+Carthage,WI
+Clarion,PA
+East Stroudsburg,PA
+Fayetteville St.,NC
+Gardner-Webb,NC
+Gettysburg,PA
+Highland (KS),KS
+Hobart,NY
+Lombard,IL
+Manchester,IN
+Manhattan,NY
+McMurry,TX
+Mercer,GA
+Morehouse,GA
+Muskingum,OH
+Navarro,TX
+New Haven,CT
+New Mex. Mil. Inst.,NM
+Ohio Northern,OH
+Pasadena CC,CA
+Pepperdine,CA
+Providence,RI
+Rochester,NY
+Shippensburg,PA
+Stillman,AL
+Saint John's (MN),MN
+Swarthmore,PA
+Ursinus,PA
+Wesley,DE
+West Virginia St.,WV
+Western Washington,WA
+Whittier,CA
+Wiley,TX
+Wisconsin–Oshkosh,WI
+Wofford,SC
+Allen,SC
+Bakersfield JC,CA
+Butte JC (CA),CA
+Central Washington,WA
+Cisco (TX),TX
+Dodge City (KS),KS
+Evansville,IN
+Fairmont St.,WV
+Fisk,TN
+Fort Lewis,CO
+Franklin (IN),IN
+Frostburg St.,MD
+Harding,AR
+Hartnell,CA
+Kalamazoo,MI
+Lake Forest,IL
+Lindenwood,MO
+Long Beach CC,CA
+Loyola (LA),LA
+Macalester,MN
+Marist,NY
+Millersville,PA
+Missouri S&T,MO
+Mount San Antonio JC,CA
+Nebraska Wesleyan,NE
+Norwich,VT
+Oregon Tech,OR
+Portland,OR
+Redlands,CA
+Reedley,CA
+Robert Morris,PA
+Saddleback College,CA
+San Mateo,CA
+Sioux Falls,SD
+St. Lawrence,NY
+St. Norbert,WI
+St. Olaf,MN
+Western St. (CO),CO
+Willamette,OR
+Wilmington,DE
+Wisconsin–Stevens Point,WI
+Yankton,SD
+Alfred,NY
+Allegheny,PA
+Assumption,MA
+Augsburg,MN
+Baker,KS
+Bemidji St.,MN
+Birmingham-Southern,AL
+Cal State-Hayward,CA
+Carleton,MN
+City College of San Francisco,CA
+Cheyney,PA
+Christian Brothers (MO),TN
+Culver-Stockton,MO
+Delta College,CA
+Diablo Valley College,CA
+Dickinson,PA
+Evangel (MO),MO
+Hampden-Sydney,VA
+Hastings,NE
+Illinois Tech,IL
+Knox,IL
+Los Angeles Valley,CA
+Livingstone,NC
+Luther,IA
+Manitoba,MB
+Mars Hill,NC
+Mary Hardin-Baylor,TX
+McGill,QC
+Menlo,CA
+Merchant Marine,NY
+Middlebury,VT
+Millsaps,MS
+Minot St.,ND
+Missouri Valley,MO
+Modesto JC,CA
+Monmouth (IL),IL
+Northeast Mississippi CC,MS
+Northwood,MI
+Northern State Univ.,SD
+Ottawa (KS),KS
+Pacific Lutheran,WA
+Parsons,IA
+Randolph-Macon,VA
+Rhodes,TN
+Sacred Heart,CT
+SE Oklahoma St.,OK
+Shaw,NC
+Simon Fraser,BC
+Southern Oregon,OR
+St. Edward's,TX
+St. Joseph's (IN),IN
+St. Joseph's (PA),PA
+St. Mary's (TX),TX
+Sul Ross St.,TX
+Southwest Mississippi CC,MS
+Thiel,PA
+Tiffin,OH
+Tusculum,TN
+Upsala,NJ
+Western Oregon,OR
+West Liberty St.,WV
+Westminster (PA),PA
+West Virginia Tech,WV
+Wheaton,IL
+William Jewell,MO
+William Penn,IA
+Wingate,NC
+Wisconsin–Eau Claire,WI
+Wisconsin–Stout,WI
+University of Alberta,AB
+Albion,MI
+Anderson (IN),IN
+Arnold,CT
+Augustana (IL),IL
+Bates,ME
+Bliss,ME
+Bridgeport,CT
+Brockport St.,NY
+Brooklyn,NY
+Campbell,NC
+Campion,WI
+Carroll (MT),MT
+CCNY,NY
+Central College (IA),IA
+Central Connecticut St.,CT
+Chapman,CA
+Charleston Southern,SC
+Coe College,IA
+Col. of Emporia,KS
+Col. of Idaho,ID
+Col. of the Sequoias,CA
+Colorado Col.,CO
+Colorado Mines,CO
+Concordia (QB),QC
+Concordia-St.Paul (MN),MN
+Cortland St.,NY
+Cumberlands,KY
+Defiance,OH
+Delaware Valley,PA
+Doane,NE
+DuPage (IL),IL
+Eastern Montana,MT
+Edinboro,PA
+El Camino Col. (CA),CA
+Elmhurst,IL
+Fullerton JC,CA
+Georgetown (KY),KY
+Golden West,CA
+Graceland College (IA),IA
+Grinnell,IA
+Guilford,NC
+Hiram,OH
+Holmes (MS),MS
+Houston Baptist,TX
+Indianapolis,IN
+Itawamba (MS),MS
+Jacksonville,FL
+Jamestown,ND
+Kenyon,OH
+Knoxville,TN
+Lakeland,WI
+Lambuth,TN
+La Salle,PA
+Limestone,SC
+Lock Haven,PA
+Long Island,NY
+Marian,IN
+Mercyhurst,PA
+Miles,AL
+Milton,WI
+Minnesota-Crookston,MN
+Montana Tech,MT
+Montreal,QC
+Moorhead State (MN),MN
+Mount St. Mary's,MD
+New York Tech,NY
+North Central,IL
+Oglethorpe,GA
+Oklahoma Baptist,OK
+Olivet,MI
+Pacific (OR),OR
+Palomar (CA),CA
+Pearl River CC,MS
+Peru St.,NE
+Puget Sound,WA
+Queens (Canada),ON
+Rose Hulman Tech,IN
+Rowan,NJ
+Santa Monica College (CA),CA
+Santa Rosa JC,CA
+Saskatchewan,SK
+Schuylkill,PA
+Sherman Indian,CA
+Simpson,IA
+Sonoma St.,CA
+Southwestern (KS),KS
+St. Anselm,NH
+St. Augustine's,NC
+Stetson,FL
+St. Mary's (Canada),NS
+St. Mary's (KS),KS
+St. Viator,IL
+Tarkio,MO
+Tennessee Wesleyan,TN
+Tyler JC,TX
+Union (NY),NY
+Union (TN),TN
+Univ. of Mary,ND
+Upper Iowa,IA
+West Los Angeles College,CA
+Westminster (MO),MO
+Whitworth,WA
+Acadia (Canada),NS
+Allentown College,PA
+Alma,MI
+American College of Physical Education,IL
+Anahuac (Mexico),Mexico
+Antelope Valley JC,CA
+Apprentice,VA
+Augusta State (GA),GA
+Aurora,IL
+Austria Technical,Austria
+University of Belgrade,Belgrade
+Belhaven,MS
+Bentley College,MA
+Berry,GA
+Bethany (KS),KS
+Black Hills St.,SD
+Bluffton,OH
+Brandeis,MA
+Bryant,RI
+Buena Vista,IA
+UC Irvine,CA
+California Western,CA
+Cal State-Bakersfield,CA
+Central Florida CC,FL
+Clarkson,NY
+Clinch Valley,VA
+Coast Guard,CT
+Concordia (IL),IL
+Concordia (NE),NE
+Concordia (WI),WI
+Contra Costa JC,CA
+Cornell Col.,IA
+Corpus Christi,TX
+Dakota Wesleyan,SD
+Dana,NE
+Deakin (Australia),Australia
+Detroit Tech,MI
+Drexel,PA
+Earlham,IN
+Eastern Oregon,OR
+Edward Waters,FL
+Flagler,FL
+Florida Tech,FL
+Fort Scott (KS),KS
+Framingham St.,MA
+Frederick College,VA
+Friends,KS
+General Motors Institute,MI
+Geneseo St.,NY
+George Fox,OR
+Grand View,IA
+Greenville,IL
+Guelph,ON
+Hibbing CC (MN),MN
+Highline,WA
+Holy Cross (IN),IN
+Illinois Benedictine,IL
+Incarnate Word,TX
+Iona,NY
+Iowa Wesleyan,IA
+ITESM Monterey,Mexico
+Ithaca,NY
+Jefferson,MO
+Kennesaw St.,GA
+King Alfred's (England),England
+Kentucky Wesleyan,KY
+Laval,QC
+La Verne,CA
+Lewis & Clark,OR
+Lincoln Col.,IL
+Los Angeles CC,CA
+Louisiana College,LA
+Loyola (MD),MD
+MacMurray,IL
+Malone,OH
+Marion Military Institute,AL
+McKendree University,IL
+McPherson,KS
+Metro State,CO
+MidAmerica Nazarene University,KS
+Miramonte JC,CA
+Mississippi Delta CC,MS
+Moorpark College,CA
+Moraine Valley CC (IL),IL
+Moravian,PA
+Mount Senario,WI
+NE Illinois,IL
+Newport (Wales),Wales
+Northland (WI),WI
+North Carolina–Pembroke,NC
+North Central University,MN
+North Dakota-Ellendale,ND
+North Greenville,SC
+North Park,IL
+Notre Dame (OH),OH
+Northern Virginia CC,VA
+NW (IA),IA
+Oberlin,OH
+Ohio Dominican,OH
+Panhandle State (OK),OK
+Park,MO
+Paul Quinn,TX
+Philander Smith,AR
+Phoenix College (JC),AZ
+Pierce College (CA),CA
+Pittsburgh-Johnstown,PA
+Plymouth St.,NH
+Pretoria,South Africa
+Principia,IL
+College of the Redwoods,CA
+Regis,CO
+Rider,NJ
+Rocky Mountain,MT
+Rose St.,OK
+Rensselaer Polytechnic Institute,NY
+Rust,MS
+Rutgers-Camden,NJ
+Salisbury,MD
+San Diego City Coll,CA
+Seattle,WA
+Seton Hall,NJ
+Sherbrooke,QC
+Shorter University,GA
+Spring Hill,AL
+St. Bernard,AL
+Sterling,KS
+St. Francis Xavier (NS),NS
+St. Leo,FL
+St. Paul's,VA
+Tabor,KS
+Taft,CA
+Taylor,IN
+Toronto,ON
+Trinity (IL),IL
+Union (KY),KY
+Univ. of the South,TN
+Urbana,IL
+Valencia CC (FL),FL
+Virginia Commonwealth,VA
+Ventura College,CA
+Wake Technical CC,NC
+Walla Walla CC (WA),WA
+Washington (MD),MD
+Webber International,FL
+Wesleyan,CT
+West Florida,FL
+Westminster (UT),UT
+Western Montana,MT
+Western Nebraska CC,NE
+Western New Mexico,NM
+William Paterson,NJ
+Winona St.,MN
+Wisconsin–River Falls,WI
+Worcester St.,MA
+York,ON
